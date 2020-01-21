@@ -27,6 +27,10 @@ To use this project you have to have a Contentful account. If you don't have one
 
 Install [Yarn](https://yarnpkg.com/en/docs/install) (if you haven't already).
 
+## (Note to self):
+Since the contentful account with the github social login already had two spaces, I have to create a new 
+contentful account with the Andrew Dinh Gmail social login.  
+
 ### Get the source code and install dependencies.
 
 ```
